@@ -1,0 +1,8 @@
+flask
+torch
+transformers==4.51.3
+numpy
+pandas
+nltk
+python-dotenv
+gunicorn
